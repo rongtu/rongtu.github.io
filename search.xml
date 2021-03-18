@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/12/21/hello-world/</url>
+    <content><![CDATA[<p>今天开始搭建hexo</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>原声</title>
+    <url>/2021/03/18/%E5%8E%9F%E5%A3%B0/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>备忘录</title>
+    <url>/2020/12/24/%E5%A4%87%E5%BF%98%E5%BD%95/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>服务容错</title>
+    <url>/2021/03/18/%E6%9C%8D%E5%8A%A1%E5%AE%B9%E9%94%99/</url>
+    <content><![CDATA[<h1 id="场景分析"><a href="#场景分析" class="headerlink" title="场景分析"></a>场景分析</h1><p>雪崩：一个节点的不可用，层层传递导致全节点失去作用。</p>
+<h1 id="设计实践"><a href="#设计实践" class="headerlink" title="设计实践"></a>设计实践</h1>]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>架构</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>蚊帐</title>
+    <url>/2020/12/24/%E8%9A%8A%E5%B8%90/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>分类1</category>
+      </categories>
+      <tags>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+</search>
